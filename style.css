@@ -1,0 +1,71 @@
+.conteiner {
+    font-family: 'monserrat', sans-serif;
+    max-width: 1920px;
+}   
+.img {
+    display: block;
+    position: absolute;
+    height: 900px;
+}
+.text1 {
+    display: flex;
+    position: absolute;
+    size: 16px;
+    color: white; 
+    width: max-content;
+    line-height: 19,5px;
+}
+.a {
+    margin: 40px 20px 39px 20px;
+}
+.text-position {
+    margin-right: 20px;
+    margin-top: 40px;
+    padding-left: 952px;
+}
+.line {
+    display: block;
+    position: absolute;
+    width: 1918px;
+    border: 1px solid #A1A1A1;
+    background-color: #A1A1A1;
+    margin-top: 100px;
+    opacity: 0.5;
+}
+.line1 {
+    display: block;
+    position: absolute;
+    border: 1px solid #FFFFFF;
+    width: 107px;
+    height: 0px;
+    background-color: #FFFFFF;
+    margin-top: 100px;
+    margin-left:  930px;
+}
+.text2 {
+    position: absolute;
+    width: 175px;
+    height: 20px;
+    left: 872px;
+    top: 319px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.text3 {
+    position: absolute;
+    width: 829px;
+    height: 111px;
+    left: 545px;
+    top: 359px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 64px;
+    text-align: center;
+    color: #FFFFFF;
+    
+}
